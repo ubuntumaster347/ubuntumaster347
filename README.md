@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ubuntumaster347
 - 👀 I’m interested in ...
 - 🌱 I’m currently Teaching Python to students
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GNU/Linux
 - 📫 How to reach me ... My Website
 
 <!---
